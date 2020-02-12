@@ -242,7 +242,7 @@ ol.type li a:hover {
 }
 #contact h2 {
 	font-weight: 400;
-	color: #777;
+	color: white;
 	margin: 60px 0;
 }
 #contact img {
@@ -250,7 +250,7 @@ ol.type li a:hover {
 	margin: 5px 30px 10px 0;
 }
 #contact p {
-	color: #666;
+	color: white;
 	margin-bottom: 20px;
 	line-height: 24px;
 }
@@ -264,11 +264,11 @@ ol.type li a:hover {
 #contact .social i.fa {
 	font-size: 26px;
 	padding: 4px;
-	color: #777;
+	color: white;
 	transition: all 0.3s;
 }
 #contact .social i.fa:hover {
-	color: #eee;
+	color: white;
 }
 #contact form {
 	padding: 0;
@@ -289,7 +289,7 @@ label {
 	font-size: 15px;
 	font-weight: 400;
 	line-height: 1.42857143;
-	color: #aaa;
+	color: white;
 	background-color: #444;
 	background-image: none;
 	border: 0;
@@ -307,20 +307,20 @@ label {
 	box-shadow: transparent;
 }
 .form-control::-webkit-input-placeholder {
-color: #777;
+color: white;
 }
 .form-control:-moz-placeholder {
-color: #777;
+color: white;
 }
 .form-control::-moz-placeholder {
-color: #777;
+color: white;
 }
 .form-control:-ms-input-placeholder {
-color: #777;
+color: white;
 }
 #contact .btn-default {
 	font-weight: 400;
-	color: #666;
+	color: white;
 	background-color: transparent;
 	border: 2px solid #666;
 	padding: 10px 20px;
@@ -333,7 +333,7 @@ color: #777;
 }
 #contact .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
 	background-color: #666;
-	color: #999;
+	color: white;
 }
 /* Footer Section*/
 #footer {
@@ -342,5 +342,5 @@ color: #777;
 }
 #footer p {
 	font-size: 15px;
-	color: #666;
+	color: white;
 }
